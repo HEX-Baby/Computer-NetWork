@@ -1,0 +1,6 @@
+﻿  ChatServer.cpp
+E:\c++的code\计算机网络\lab1\ChatServer\ChatServer.cpp(164,74): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\c++的code\计算机网络\lab1\ChatServer\ChatServer.cpp(171,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\c++的code\计算机网络\lab1\ChatServer\ChatServer.cpp(216,40): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\c++的code\计算机网络\lab1\ChatServer\ChatServer.cpp(222,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ChatServer.vcxproj -> E:\c++的code\计算机网络\lab1\x64\Debug\ChatServer.exe
